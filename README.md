@@ -19,3 +19,10 @@
 - ![image](https://user-images.githubusercontent.com/94292484/168279625-44f93ce5-d196-4a13-b7a0-de7997851fd9.png)
 2. Client who have management, technician, blue-collar, admin and retired jobs are more subscribed to term deposits than other jobs
 - ![image](https://user-images.githubusercontent.com/94292484/168281251-abdd1469-ff76-491b-aa64-4549f55f45f2.png)
+# ML Modelling
+Before we train the model, split the data into train set & test set (size is 30%). Trained the model with 5 different algorithms and evaluated them with AUC score and Precision. AUC score used to make the model ideal for the dataset.Precision used to minimize subscribed client wrong predictions so the marketing cost can be reduced. The model was trained with:
+- Logistic Regression
+- Decision Tree
+- XGboost
+- KNN
+- Random Forest
