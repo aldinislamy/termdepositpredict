@@ -15,3 +15,4 @@
 ## Purposes 
 - The targeted client are successful in subscribing term deposit, while still optimizing marketing costs.
 # Data Analysis
+1. ![image](https://user-images.githubusercontent.com/94292484/168279067-17c77370-516d-42b2-a291-882f4384b435.png)
