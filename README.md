@@ -26,3 +26,5 @@ Before we train the model, split the data into train set & test set (size is 30%
 - XGboost
 - KNN
 - Random Forest
+# Model Evaluation
+![image](https://user-images.githubusercontent.com/94292484/168284351-c06a0969-a1f1-4dd4-979b-e0f18c3f4e50.png)
