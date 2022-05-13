@@ -10,3 +10,6 @@
 - Handle imbalance class with Threshold Moving 
 - Validate the model with data test 
 ## Problems
+- Term Deposit are major source of income for a bank. Currently, Telephonic marketing campaigns is the most effective way to reach out to people. However, they require huge investment.
+- Based on the data, the subscription rate of the client is relatively small which is 11.7%
+## Purposes 
