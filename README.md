@@ -33,8 +33,8 @@ These are the models score evaluation with Accuracy, Precision, Recall, F1-Score
 XGboost algorithm used because the AUC and Precision score is higher than the others.Then we used the model to predict the dataset and the Subscription rate is increased to 23.1%. XGboost model increasing the subscription rate by 11.4%. Here are the table with assumption telephone cost per second Rp 578/30s - Rp636/30s
  ![image](https://user-images.githubusercontent.com/94292484/168286911-0f1543ed-7811-4702-b040-b8972fc76406.png)
 # Business Insight & Recommendation
-- The subscribe ratio of clients that have poutcome value of success is higher than the other values. So, marketing team can prioritize this clients .
-![image](https://user-images.githubusercontent.com/94292484/168287580-016dea73-991d-4b35-aad1-8e088f55a87e.png)
+- The subscribe ratio of clients that have poutcome value of success is higher than the other values. So, marketing team can prioritize this clients.
+- ![image](https://user-images.githubusercontent.com/94292484/168287580-016dea73-991d-4b35-aad1-8e088f55a87e.png)
 - marketing team can target clients who have jobs in the top 5 ranking below because they have more subscribed value than the others.
-![image](https://user-images.githubusercontent.com/94292484/168288906-7be80351-17f9-4a02-a18a-ffa65cf573f6.png)
+- ![image](https://user-images.githubusercontent.com/94292484/168288906-7be80351-17f9-4a02-a18a-ffa65cf573f6.png)
 
