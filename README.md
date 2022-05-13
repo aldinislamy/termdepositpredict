@@ -15,4 +15,7 @@
 ## Purposes 
 - The targeted client are successful in subscribing term deposit, while still optimizing marketing costs.
 # Data Analysis
-1. ![image](https://user-images.githubusercontent.com/94292484/168279067-17c77370-516d-42b2-a291-882f4384b435.png)
+1. Distribution of Subscribed client is not balanced
+![image](https://user-images.githubusercontent.com/94292484/168279625-44f93ce5-d196-4a13-b7a0-de7997851fd9.png)
+2. Client who have management, technician, blue-collar, admin and retired jobs are more subscribed to term deposits than other jobs
+![image](https://user-images.githubusercontent.com/94292484/168281251-abdd1469-ff76-491b-aa64-4549f55f45f2.png)
