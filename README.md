@@ -13,3 +13,5 @@
 - Term Deposit are major source of income for a bank. Currently, Telephonic marketing campaigns is the most effective way to reach out to people. However, they require huge investment.
 - Based on the data, the subscription rate of the client is relatively small which is 11.7%
 ## Purposes 
+- The targeted client are successful in subscribing term deposit, while still optimizing marketing costs.
+# Data Analysis
