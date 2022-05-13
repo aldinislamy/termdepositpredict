@@ -27,5 +27,8 @@ Before we train the model, split the data into train set & test set (size is 30%
 - KNN
 - Random Forest
 # Model Evaluation
-These are the models score evaluation 
+These are the models score evaluation with Accuracy, Precision, Recall, F1-Score and AUC.
 ![image](https://user-images.githubusercontent.com/94292484/168284351-c06a0969-a1f1-4dd4-979b-e0f18c3f4e50.png)
+# Summary
+XGboost algorithm used because the AUC and Precision score is higher than the others.Then we used the model to predict the dataset and the Subscription rate is increased to 23.1%. XGboost model increasing the subscription rate by 11.4% ![image](https://user-images.githubusercontent.com/94292484/168286911-0f1543ed-7811-4702-b040-b8972fc76406.png)
+
